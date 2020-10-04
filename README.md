@@ -9,7 +9,7 @@
 2. CSS
 3. JavaScript
 
-#### Histórico de atualização:
+# Histórico de atualização:
 
 - 04/10/2020:
     * Adição dos arquivos + publicação do site
