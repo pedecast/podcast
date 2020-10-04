@@ -2,14 +2,17 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
     padding: 0px;
+    background-color: rgb(238, 226, 238);
 }
 
 /*                                               */
 
 .cabecalho{
-    background-color: #6006b4;
+    background-color: #7d008d;
+    color: white;
     height: 80px;
-    padding-left: 140px;
+    padding-left: 180px;
+    padding-right: 180px;;
 }
 
 /*                                               */
@@ -24,7 +27,7 @@ body{
 
 .botao{
     float: right;
-    padding-top: 9px;
+    padding-top: 10px;
 }
 
 .botao li{
@@ -34,10 +37,35 @@ body{
     font-size: 20px;
 }
 
-.botao ul{
-    padding-right: 100px;
+.home{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 10px;
+    border-radius: 13px;
 }
 
-.home{
-    padding-right: 100px;
+.sobre{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 10px;
+    border-radius: 13px;
+}
+
+.contato{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: 10px;
+    border-radius: 13px;
+}
+
+.home:hover, .sobre:hover, .contato:hover{
+    background-color: #a200b8;
+    cursor: pointer;
+    color: yellow;
 }
