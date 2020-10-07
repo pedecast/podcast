@@ -68,6 +68,6 @@
     .home:hover, .sobre:hover, .contato:hover{
         background-color: #a200b8;
         cursor: pointer;
-        color: yellow;
+        color: #ffff00;
     }
 }
