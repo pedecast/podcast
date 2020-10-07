@@ -13,3 +13,6 @@
 
 - 04/10/2020:
     * Adição dos arquivos + publicação do site
+
+- 07/10/2020:
+   * Acesso otimizado para celulares.
