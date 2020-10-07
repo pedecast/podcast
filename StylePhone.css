@@ -1,0 +1,61 @@
+@media only screen and (max-width: 600px){
+    .cabecalho{
+        background-color: #7d008d;
+        color: white;
+        height: 80px;
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+    
+    /*                                               */
+    
+    .nome{
+        float: left;
+        font-size: 20px;
+        padding-top: 28px;
+    }
+    
+    /*                                               */
+    
+    .botao{
+        float: right;
+        padding-top: 15px;
+    }
+    
+    .botao li{
+        list-style: none;
+        float: left;
+        padding-left: 10px;
+        font-size: 15px;
+    }
+    
+    .home{
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin: 0px;
+    }
+    
+    .sobre{
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin: 0px;
+    }
+    
+    .contato{
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin-left: 0px;
+    }
+    
+    .home:hover, .sobre:hover, .contato:hover{
+        background-color: #a200b8;
+        cursor: pointer;
+        color: yellow;
+    }
+}
